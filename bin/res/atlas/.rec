@@ -1,0 +1,31 @@
+D .
+D img
+P F119B8EB back_to_main.png
+P 0A827360 board.png
+P 87B605D1 center_left_pattern.png
+P AC80C7F3 center_right_pattern.png
+P C9772805 finger.png
+P 1F07CE3A left_right.png
+P 6BF5B6B6 mute.png
+P 2F0973F4 over_center.png
+P 73BCAC90 over_cicle.png
+P F17E11B8 restart.png
+P A3A11BC3 resurrection.png
+P 3031E2F0 return.png
+P DF1DB2E0 share.png
+P 5FA5E588 skip.png
+P B030A38D start.png
+P E021448D textContent.png
+P 162311EB title.png
+P 43E518D6 unmute.png
+D imgunpack
+D sounds
+R DAE0C16A falling.mp3
+R 791E52FB faster.mp3
+R 3E71FBED larger.mp3
+R 54526405 metal.mp3
+R F018B721 music_play.mp3
+R 6DBBB871 slower.mp3
+R 2843914A smaller.mp3
+R 38585719 solstice.mp3
+R 66FE7649 wood.mp3

@@ -1,0 +1,22 @@
+<res>
+   <item name="img/share.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="gameOver/textContent.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="gameOver/share.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="gameOver/return.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="gameOver/restart.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="gameOver/content.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="gameOver/bg.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="img/bg.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="img" type="" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="imgunpack" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="img/mute.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="img/arrow.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="imgunpack/content.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="img/over_cicle.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=0,0,0,0" picType="0" scale="0"/>
+   <item name="img/board.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="img/over_center.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="img/start.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="img/restart_over.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="img/return_over.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="img/share_over.png" type="Image" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+</res>
